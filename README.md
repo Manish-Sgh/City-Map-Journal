@@ -2,6 +2,8 @@
 
 A React-based journaling application for recording and managing personal thoughts and memories.
 
+![Intro Image](public/images/intro_image.png)
+
 ## Features
 
 - Create and edit journal entries
