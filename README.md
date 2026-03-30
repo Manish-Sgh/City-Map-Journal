@@ -1,6 +1,6 @@
 # Journal App
 
-A React-based journaling application for recording and managing personal thoughts and memories.
+A journaling application for recording and managing personal thoughts and memories.
 
 ![Intro Image](public/images/intro_image.png)
 
