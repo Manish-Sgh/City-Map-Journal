@@ -1,0 +1,5 @@
+{
+  "name": "Journal App",
+  "description": "A personal daily journal web app with an immersive 3D map and nature-inspired design.",
+  "requestFramePermissions": ["geolocation"]
+}
