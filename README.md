@@ -1,20 +1,60 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Journal App
 
-# Run and deploy your AI Studio app
+A React-based journaling application for recording and managing personal thoughts and memories.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/ef7cd740-15f9-4f37-8cab-25d451836720
+- Create and edit journal entries
+- Organize entries by date
+- Simple and intuitive user interface
+- Local storage support
 
-## Run Locally
+## Getting Started
 
-**Prerequisites:**  Node.js
+### Prerequisites
 
+- Node.js (v14 or higher)
+- npm or yarn
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Installation
+
+```bash
+git clone <repository-url>
+cd journal-app
+npm install
+```
+
+### Running the App
+
+```bash
+npm start
+```
+
+The app will open at `http://localhost:3000`
+
+## Project Structure
+
+```
+journal-app/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── App.js
+│   └── index.js
+├── public/
+└── package.json
+```
+
+## Technologies Used
+
+- React
+- React Router 
+- CSS/Styled Components
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first.
+
+## License
+
+MIT
